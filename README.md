@@ -18,6 +18,7 @@ semantic-search/
 └── README.md            # Setup instructions, architecture, and experiment findings
 
 Setup & Usage Instructions
+
 1. Create & Activate Virtual Environment
 python -m venv .venv
 # Windows:
