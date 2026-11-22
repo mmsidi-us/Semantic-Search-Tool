@@ -1,0 +1,16 @@
+# Virtual environments & caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional: uncomment if you prefer regenerating chroma_data locally
+# chroma_data/
